@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **MrDife/MrDife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![lemmejustlinkthispicturemyfriend](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-developer-web-development-flaticons-lineal-color-flat-icons-6.png)
